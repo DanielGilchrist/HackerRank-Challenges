@@ -1,0 +1,6 @@
+[package]
+name = "class_vs_instance"
+version = "0.1.0"
+authors = ["Daniel Gilchrist"]
+
+[dependencies]
